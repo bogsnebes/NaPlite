@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="menu">menu</string>
+    <string name="back">back</string>
+    <string name="share">share</string>
+    <string name="star">star</string>
+    <string name="photo_of_recipe">photo of recipe</string>
+    <string name="culinary_articles">Кулинарные статьи</string>
+    <string name="photo_of_article">photo of article</string>
 </resources>

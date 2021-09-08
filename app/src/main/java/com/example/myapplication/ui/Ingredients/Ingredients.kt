@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.myapplication.R
 
-class Ingredients : Fragment(R.layout.fragment_ingredients) {
+class Ingredients : Fragment(R.layout.fragment_viewpager_ingredients_recipe) {
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,

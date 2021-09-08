@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_recipes_array">
+        <item>По популярности</item>
+        <item>По новизне</item>
+        <item>По случайности</item>
+    </string-array>
+    <string-array name="viewpager_recipes_array">
+        <item>Описание</item>
+        <item>Ингридиенты</item>
+        <item>Рецепт</item>
+    </string-array>
+</resources>
